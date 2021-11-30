@@ -27,7 +27,7 @@
   },
   "ObjectInfo": {
     "publicGateway": "View on Public Gateway",
-    "privateGateway": "View on Private Gateway"
+    "privateGateway": "View on Local Gateway"
   },
   "base": "base",
   "version": "version",
